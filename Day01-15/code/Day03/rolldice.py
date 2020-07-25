@@ -20,4 +20,5 @@ elif face == 5:
     result = '念绕口令'
 else:
     result = '讲冷笑话'
+print(face)    
 print(result)
